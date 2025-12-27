@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm [Norct](https://github.com/Unjou) 👾
+# 👋 Hi there, I'm [norct](https://github.com/Unjou) 👾
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F8F8F8&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Localization+Specialist;Cyber+Security+Enthusiast;Pentester+%26+Bug+Hunter" alt="Typing SVG" />
 
@@ -101,7 +101,7 @@
 
 <br/>
 
-**Thanks for visiting my profile! 💖**
+**Thanks for visiting my profile!**
 
 </div>
 
