@@ -73,27 +73,41 @@
 
 ### 📊 GitHub Stats & Activity (Conceptual)
 
-<div align="center">
+<p align="center">
 
-<img
-  src="https://dummyimage.com/420x160/0d1117/79ff97&text=Code+Focus%3A+Fullstack+%7C+Security+%7C+Localization"
-  alt="Dummy GitHub Stats"
-/>
+<img src="https://img.shields.io/badge/My_GitHub_Statistics-Conceptual-0d1117?style=for-the-badge&labelColor=000000" />
 
-<br/><br/>
-
-<img
-  src="https://dummyimage.com/420x160/0d1117/38bdf8&text=Top+Tech%3A+JS+%7C+TS+%7C+Python+%7C+React+%7C+Node.js"
-  alt="Dummy Top Languages"
-/>
-
-<p>
-<sub>
-Statistics are conceptual representations based on tech stack and focus — not automated GitHub activity.
-</sub>
 </p>
 
-</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Fullstack_Web_Development-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-Cyber_%26_Pentesting-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/Game-Localization-1f2937?style=flat-square" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/My_Programming_Languages-Conceptual-0d1117?style=for-the-badge&labelColor=000000" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-35%25-f7df1e?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-20%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-20%25-3776ab?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-15%25-61dafb?style=flat-square&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-10%25-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+</p>
+
+<p align="center">
+<sub>
+All statistics above are <b>conceptual</b> and manually curated based on tech stack — not automated GitHub activity.
+</sub>
+</p>
 
 ---
 
