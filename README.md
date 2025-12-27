@@ -16,27 +16,28 @@
 ### 🌌 Professional Overview
 
 > [!IMPORTANT]
-> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**.  
-> I bridge the gap between complex software systems and seamless user experiences — through both **code precision** and **linguistic accuracy**.
+> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
 
----
-
-### 🚀 Current Focus & Career Direction
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🔭_Current_Project-Fullstack_Web_Development-1f2937?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌱_Security_Path-Advanced_Pentesting-1f2937?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🎮_Specialization-Visual_Novel_Localization-1f2937?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🏆_2026_Vision-Certified_Pentester_&_OSS_Leader-1f2937?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/💼_Availability-Open_to_Work-0d9488?style=for-the-badge&labelColor=000000" />
-
-</p>
-
-<p align="center">
-Building <b>scalable web applications</b>, securing systems through <b>ethical hacking</b>,  
-and delivering <b>high-quality game localization</b> for Indonesian audiences.
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Current Focus</h4>
+      <ul>
+        <li>🔭 <b>Working on:</b> Fullstack Web Dev</li>
+        <li>🌱 <b>Learning:</b> Advanced Pentesting</li>
+        <li>🎮 <b>Expertise:</b> Visual Novel Localization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 2026 Vision</h4>
+      <ul>
+        <li>🏆 Certified Pentester Professional</li>
+        <li>📂 Leading OSS Localization Tools</li>
+        <li>💼 Open to Professional Opportunities</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,30 +58,29 @@ and delivering <b>high-quality game localization</b> for Indonesian audiences.
 
 ### 🎮 Game Localization Expertise
 
-#### **Engine & Technical Mastery**
-* **KiriKiri2 / KRKRZ** — 🟢 *Advanced* (Script editing, resource extraction)
-* **Artemis Engine** — 🟢 *Advanced* (Localization framework implementation)
-
-#### **Workflow & Open Source Tools**
-* 🛠️ [Garbro](https://github.com/morkt/GARbro)
-* 🛠️ [KrkrExtract](https://github.com/xmoe/KrkrExtract)
-* 🚀 [Mobijake](https://github.com/Unjou/mobijake) — Custom localization tooling (Early Stage)
+| Technical Mastery | Tools & Projects |
+| :--- | :--- |
+| 🟢 **KiriKiri2 / KRKRZ** <br><sub>Script editing & resource extraction</sub> | 🛠️ [Garbro](https://github.com/morkt/GARbro) <br><sub>Resource Browser</sub> |
+| 🟢 **Artemis Engine** <br><sub>Localization framework implementation</sub> | 🛠️ [KrkrExtract](https://github.com/xmoe/KrkrExtract) <br><sub>Universal Unpacker</sub> |
+| 🇯P ➜ 🇮🇩 / 🇺🇸 **Primary Focus** <br><sub>Indonesian & English Translation</sub> | 🚀 [Mobijake](https://github.com/Unjou/mobijake) <br><sub>Custom localization tooling</sub> |
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unjou&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=unjou&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unjou&layout=compact&theme=tokyonight" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+
+</div>
 
 ---
 
@@ -108,16 +108,8 @@ and delivering <b>high-quality game localization</b> for Indonesian audiences.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ato_line/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
 
-<br>
+<br/>
 
-**Thanks for visiting my profile! 👻**
-
-</div>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-
-<br>
-
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile! 💖**
 
 </div>
-
