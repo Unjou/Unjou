@@ -13,7 +13,7 @@
 
 ---
 
-### 🌌 Professional Overview
+### 🌌 Overview
 
 > [!IMPORTANT]
 > **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
@@ -62,8 +62,8 @@
 
 | 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
 | :--- | :--- |
-| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
-| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
+| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
+| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
 | **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 *Linguistic Accuracy* | 🛠️ [Mobijake](https://github.com/Unjou/mobijake) — Custom Tool |
 
 </div>
