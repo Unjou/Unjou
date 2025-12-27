@@ -58,29 +58,31 @@
 
 ### 🎮 Game Localization Expertise
 
-| Technical Mastery | Tools & Projects |
+<div align="center">
+
+| 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
 | :--- | :--- |
-| 🟢 **KiriKiri2 / KRKRZ** <br><sub>Script editing & resource extraction</sub> | 🛠️ [Garbro](https://github.com/morkt/GARbro) <br><sub>Resource Browser</sub> |
-| 🟢 **Artemis Engine** <br><sub>Localization framework implementation</sub> | 🛠️ [KrkrExtract](https://github.com/xmoe/KrkrExtract) <br><sub>Universal Unpacker</sub> |
-| 🇯P ➜ 🇮🇩 / 🇺🇸 **Primary Focus** <br><sub>Indonesian & English Translation</sub> | 🚀 [Mobijake](https://github.com/Unjou/mobijake) <br><sub>Custom localization tooling</sub> |
+| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
+| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
+| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 *Linguistic Accuracy* | 🛠️ [Mobijake](https://github.com/Unjou/mobijake) — Custom Tool |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
 ---
 
@@ -113,3 +115,4 @@
 **Thanks for visiting my profile! 💖**
 
 </div>
+
