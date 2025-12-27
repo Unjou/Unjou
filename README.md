@@ -72,17 +72,19 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true" width="400" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unjou&theme=tokyonight&hide_border=true" width="400" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unjou&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+
+</div>
 
 ---
 
