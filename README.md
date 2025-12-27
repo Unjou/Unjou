@@ -32,41 +32,6 @@
       <h4>🎯 2026 Vision</h4>
       <ul>
         <li>🏆 Certified Pentester Professional</li>
-```markdown
-<div align="center">
-
-# 👋 Hi there, I'm [Norct](https://github.com/Unjou) 👾
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F8F8F8&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Localization+Specialist;Cyber+Security+Enthusiast;Pentester+%26+Bug+Hunter" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Game_Localization-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expertise-Security_&_Web-79ff97?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-### 🌌 Professional Overview
-
-> [!IMPORTANT]
-> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Current Focus</h4>
-      <ul>
-        <li>🔭 <b>Working on:</b> Fullstack Web Dev</li>
-        <li>🌱 <b>Learning:</b> Advanced Pentesting</li>
-        <li>🎮 <b>Expertise:</b> Visual Novel Localization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 2026 Vision</h4>
-      <ul>
-        <li>🏆 Certified Pentester Professional</li>
         <li>📂 Leading OSS Localization Tools</li>
         <li>💼 Open to Professional Opportunities</li>
       </ul>
@@ -109,12 +74,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ffeb3b&currStreakNum=c9d1d9&currStreakLabel=c9d1d9" alt="GitHub Streak" width="49%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -149,3 +113,4 @@
 **Thanks for visiting my profile! 💖**
 
 </div>
+
