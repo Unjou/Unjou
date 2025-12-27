@@ -16,24 +16,23 @@
 ### 🌌 Professional Overview
 
 > [!IMPORTANT]
-> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**.  
-> I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
+> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Current Focus</h4>
       <ul>
-        <li>🔭 <b>Working on:</b> Fullstack Web Development</li>
-        <li>🌱 <b>Learning:</b> Advanced Penetration Testing</li>
+        <li>🔭 <b>Working on:</b> Fullstack Web Dev</li>
+        <li>🌱 <b>Learning:</b> Advanced Pentesting</li>
         <li>🎮 <b>Expertise:</b> Visual Novel Localization</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 2026 Vision</h4>
       <ul>
-        <li>🏆 Certified Professional Pentester</li>
-        <li>📂 Building Open-Source Localization Tools</li>
+        <li>🏆 Certified Pentester Professional</li>
+        <li>📂 Leading OSS Localization Tools</li>
         <li>💼 Open to Professional Opportunities</li>
       </ul>
     </td>
@@ -63,51 +62,11 @@
 
 | 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
 | :--- | :--- |
-| **KiriKiri2 / KRKRZ** <br> 🟢 Advanced Scripting | 📂 Garbro — Resource Extraction |
-| **Artemis Engine** <br> 🟢 Localization Framework | 📂 KrkrExtract — Engine Unpacker |
-| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 Linguistic Accuracy | 🛠️ Mobijake — Custom Tooling |
+| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
+| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
+| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 *Linguistic Accuracy* | 🛠️ [Mobijake](https://github.com/Unjou/mobijake) — Custom Tool |
 
 </div>
-
----
-
-### 📊 GitHub Stats & Activity (Conceptual)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/My_GitHub_Statistics-Conceptual-0d1117?style=for-the-badge&labelColor=000000" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Focus-Fullstack_Web_Development-1f2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-Cyber_%26_Pentesting-1f2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Game-Localization-1f2937?style=flat-square" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/My_Programming_Languages-Conceptual-0d1117?style=for-the-badge&labelColor=000000" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-35%25-f7df1e?style=flat-square&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/TypeScript-20%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-20%25-3776ab?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-15%25-61dafb?style=flat-square&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/Node.js-10%25-339933?style=flat-square&logo=node.js&logoColor=white" />
-
-</p>
-
-<p align="center">
-<sub>
-All statistics above are <b>conceptual</b> and manually curated based on tech stack — not automated GitHub activity.
-</sub>
-</p>
 
 ---
 
@@ -115,14 +74,19 @@ All statistics above are <b>conceptual</b> and manually curated based on tech st
 
 <div align="center">
 
-| Area | Status | Tools |
+| Offensive Security Field | Status | Primary Toolset |
 | :--- | :---: | :--- |
-| **Web App Pentest** | 🟢 | Burp Suite, OWASP ZAP, SQLMap |
-| **Bug Bounty** | 🟡 | HackerOne, Bugcrowd, Intigriti |
-| **Network Security** | 🟢 | Wireshark, Nmap, Metasploit |
-| **CTF** | 🟢 | PicoCTF, HackTheBox |
+| **Web Application Pentesting** | 🟢 | Burp Suite, OWASP ZAP, SQLMap |
+| **Vulnerability Research** | 🟡 | Fuzzing, Static Analysis, GDB |
+| **Network Security & Scanning** | 🟢 | Nmap, Wireshark, Metasploit |
+| **Bug Bounty Hunting** | 🟡 | HackerOne, Bugcrowd, Intigriti |
 
 </div>
+
+#### 🛡️ Ongoing Security Labs & CTFs
+* **HackTheBox / PicoCTF:** Active participant in solving binary exploitation and web challenges.
+* **Certification Path:** Currently preparing for **eJPTv2** and **OSCP** labs.
+* **Security Research:** Focus on bypassing WAF and analyzing insecure direct object references (IDOR).
 
 ---
 
@@ -140,4 +104,5 @@ All statistics above are <b>conceptual</b> and manually curated based on tech st
 **Thanks for visiting my profile! 💖**
 
 </div>
+
 
