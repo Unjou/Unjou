@@ -16,23 +16,24 @@
 ### 🌌 Professional Overview
 
 > [!IMPORTANT]
-> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
+> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**.  
+> I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Current Focus</h4>
       <ul>
-        <li>🔭 <b>Working on:</b> Fullstack Web Dev</li>
-        <li>🌱 <b>Learning:</b> Advanced Pentesting</li>
+        <li>🔭 <b>Working on:</b> Fullstack Web Development</li>
+        <li>🌱 <b>Learning:</b> Advanced Penetration Testing</li>
         <li>🎮 <b>Expertise:</b> Visual Novel Localization</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 2026 Vision</h4>
       <ul>
-        <li>🏆 Certified Pentester Professional</li>
-        <li>📂 Leading OSS Localization Tools</li>
+        <li>🏆 Certified Professional Pentester</li>
+        <li>📂 Building Open-Source Localization Tools</li>
         <li>💼 Open to Professional Opportunities</li>
       </ul>
     </td>
@@ -62,23 +63,35 @@
 
 | 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
 | :--- | :--- |
-| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
-| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
-| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 *Linguistic Accuracy* | 🛠️ [Mobijake](https://github.com/Unjou/mobijake) — Custom Tool |
+| **KiriKiri2 / KRKRZ** <br> 🟢 Advanced Scripting | 📂 Garbro — Resource Extraction |
+| **Artemis Engine** <br> 🟢 Localization Framework | 📂 KrkrExtract — Engine Unpacker |
+| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 Linguistic Accuracy | 🛠️ Mobijake — Custom Tooling |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats & Activity (Project Summary)
+### 📊 GitHub Stats & Activity (Conceptual)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Overall+Development+Stats&hide=stars,issues" width="400" />
+<img
+  src="https://dummyimage.com/420x160/0d1117/79ff97&text=Code+Focus%3A+Fullstack+%7C+Security+%7C+Localization"
+  alt="Dummy GitHub Stats"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unjou&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Core+Development+Languages" width="400" />
+<img
+  src="https://dummyimage.com/420x160/0d1117/38bdf8&text=Top+Tech%3A+JS+%7C+TS+%7C+Python+%7C+React+%7C+Node.js"
+  alt="Dummy Top Languages"
+/>
+
+<p>
+<sub>
+Statistics are conceptual representations based on tech stack and focus — not automated GitHub activity.
+</sub>
+</p>
 
 </div>
 
