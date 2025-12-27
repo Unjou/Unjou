@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm [norct](https://github.com/Unjou) 👾
+# 👋 Hi there, I'm [Norct](https://github.com/Unjou) 👾
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F8F8F8&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Localization+Specialist;Cyber+Security+Enthusiast;Pentester+%26+Bug+Hunter" alt="Typing SVG" />
 
@@ -16,13 +16,27 @@
 ### 🌌 Professional Overview
 
 > [!IMPORTANT]
-> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences, whether through code or linguistic precision.
+> **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**.  
+> I bridge the gap between complex software systems and seamless user experiences — through both **code precision** and **linguistic accuracy**.
 
-* 🔭 **Current Project:** Crafting innovative Fullstack Web applications.
-* 🌱 **Security Path:** Deep diving into Advanced Cyber Security & Penetration Testing.
-* 🎮 **Specialization:** High-quality Visual Novel localization for Indonesian audiences.
-* 🏆 **2026 Vision:** Achieving professional Pentesting certifications and leading open-source localization tools.
-* 💼 **Availability:** Currently **Open to Work** for technical and challenging roles.
+---
+
+### 🚀 Current Focus & Career Direction
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🔭_Current_Project-Fullstack_Web_Development-1f2937?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌱_Security_Path-Advanced_Pentesting-1f2937?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎮_Specialization-Visual_Novel_Localization-1f2937?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_2026_Vision-Certified_Pentester_&_OSS_Leader-1f2937?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/💼_Availability-Open_to_Work-0d9488?style=for-the-badge&labelColor=000000" />
+
+</p>
+
+<p align="center">
+Building <b>scalable web applications</b>, securing systems through <b>ethical hacking</b>,  
+and delivering <b>high-quality game localization</b> for Indonesian audiences.
+</p>
 
 ---
 
@@ -44,28 +58,28 @@
 ### 🎮 Game Localization Expertise
 
 #### **Engine & Technical Mastery**
-* **KiriKiri2 / KRKRZ** — 🟢 *Advanced* (Scripting & Resource Extraction)
-* **Artemis Engine** — 🟢 *Advanced* (Localization Framework Implementation)
+* **KiriKiri2 / KRKRZ** — 🟢 *Advanced* (Script editing, resource extraction)
+* **Artemis Engine** — 🟢 *Advanced* (Localization framework implementation)
 
 #### **Workflow & Open Source Tools**
-* 🛠️ [Garbro](https://github.com/morkt/GARbro) — Resource Browser & Advanced Extraction.
-* 🛠️ [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Universal Unpacker for Engine Resources.
-* 🚀 [Mobijake](https://github.com/Unjou/mobijake) — My specialized tool for game data handling (Early Stage).
+* 🛠️ [Garbro](https://github.com/morkt/GARbro)
+* 🛠️ [KrkrExtract](https://github.com/xmoe/KrkrExtract)
+* 🚀 [Mobijake](https://github.com/Unjou/mobijake) — Custom localization tooling (Early Stage)
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unjou&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ffeb3b&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=unjou&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unjou&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -89,9 +103,16 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5733?style=for-the-badge&logo=hyperskill&logoColor=white)](YOUR_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5733?style=for-the-badge)](YOUR_LINK_HERE)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nort_yujo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ato_line/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
+
+<br>
+
+**Thanks for visiting my profile! 👻**
+
+</div>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
 
 <br>
