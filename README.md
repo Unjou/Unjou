@@ -58,29 +58,31 @@
 
 ### 🎮 Game Localization Expertise
 
-<div align="center">
+#### **Technical Engine Mastery**
+* 🟢 **KiriKiri2 / KRKRZ** — Advanced Scripting & Resource Extraction.
+* 🟢 **Artemis Engine** — Localization Framework Implementation.
+* 🌎 **Translation Scope:** Japanese ➜ Indonesian / English.
 
-| 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
-| :--- | :--- |
-| **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
-| **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
-| **🇯🇵 ➜ 🇮🇩 / 🇺🇸 Translation** <br> 🟢 *Linguistic Accuracy* | 🛠️ [Mobijake](https://github.com/Unjou/mobijake) — Custom Tool |
-
-</div>
+#### **Workflow & Open Source Tools**
+* 🛠️ **[Garbro](https://github.com/morkt/GARbro)** — Resource Browser & Extraction.
+* 🛠️ **[KrkrExtract](https://github.com/xmoe/KrkrExtract)** — Universal Unpacker for Engine Resources.
+* 🚀 **[Mobijake](https://github.com/Unjou/mobijake)** — Custom localization data handling tool.
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unjou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unjou&theme=tokyonight&hide_border=true" width="400" alt="Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unjou&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unjou&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unjou&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Languages" />
+</p>
 
 ---
 
