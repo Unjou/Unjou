@@ -56,7 +56,7 @@
 
 ---
 
-### 🎮 Game Localization Expertise
+###  Game Localization Expertise
 
 <div align="center">
 
