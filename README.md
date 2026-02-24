@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm [norct](https://github.com/Unjou) 👾
+# Hi there, I'm [norct](https://github.com/Unjou) 👾
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F8F8F8&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Localization+Specialist;Cyber+Security+Enthusiast;Pentester+%26+Bug+Hunter" alt="Typing SVG" />
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,react,vue,nextjs,tailwind,angular,nodejs,express,django,mysql,mongodb,git,github,docker,linux,vscode&perline=11" height="65" />
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-| 🛠️ Engine & Technical Mastery | 🚀 Workflow & Projects |
+|  Engine & Technical Mastery |  Workflow & Projects |
 | :--- | :--- |
 | **KiriKiri2 / KRKRZ** <br> 🟢 *Advanced Scripting* | 📂 [KrkrExtract](https://github.com/xmoe/KrkrExtract) — Unpacker |
 | **Artemis Engine** <br> 🟢 *Localization Framework* | 📂 [Garbro](https://github.com/morkt/GARbro) — Extraction |
@@ -70,7 +70,7 @@
 
 ---
 
-### 🕵️ Cyber Security Focus
+###  Cyber Security Focus
 
 <div align="center">
 
