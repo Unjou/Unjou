@@ -18,27 +18,6 @@
 > [!IMPORTANT]
 > **Fullstack Developer** and **Game Localization Specialist** with a deep interest in **Cyber Security**. I bridge the gap between complex software systems and seamless user experiences through **code precision** and **linguistic accuracy**.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Current Focus</h4>
-      <ul>
-        <li>🔭 <b>Working on:</b> Fullstack Web Dev</li>
-        <li>🌱 <b>Learning:</b> Advanced Pentesting</li>
-        <li>🎮 <b>Expertise:</b> Visual Novel Localization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 2026 Vision</h4>
-      <ul>
-        <li>🏆 Certified Pentester Professional</li>
-        <li>📂 Leading OSS Localization Tools</li>
-        <li>💼 Open to Professional Opportunities</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### Tech Stack & Skills
