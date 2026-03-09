@@ -62,7 +62,7 @@
 
 </div>
 
-#### 🛡️ Ongoing Security Labs & CTFs
+#### Ongoing Security Labs & CTFs
 * **HackTheBox / PicoCTF:** Active participant in solving binary exploitation and web challenges.
 * **Certification Path:** Currently preparing for **eJPTv2** and **OSCP** labs.
 * **Security Research:** Focus on bypassing WAF and analyzing insecure direct object references (IDOR).
