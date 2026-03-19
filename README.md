@@ -69,7 +69,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 
 
 <div align="center">
 
