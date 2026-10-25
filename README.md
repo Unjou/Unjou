@@ -73,14 +73,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5733?style=for-the-badge)](noct-steel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5733?style=for-the-badge)](https://noct-steel.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nort_yujo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ato_line/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
 
 <br/>
 
-**Thanks for visiting my profile!**
 
 </div>
 
